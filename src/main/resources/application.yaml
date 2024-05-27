@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: MyLovelyGirlfriend
+
+server:
+  port: 8080
